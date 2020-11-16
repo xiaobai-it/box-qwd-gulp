@@ -1,6 +1,6 @@
-### 把项目克隆到本地  
+### 安装：npm install --save-dev  box-qwd-gulp
 ### 在项目根目下创建一个文件：box.qwd.gulp.config.js   
-### 文件的配置选项：  
+### 文件的配置选项如下：  
 ```
 module.exports = {
   // html文件的数据，里面有模板
